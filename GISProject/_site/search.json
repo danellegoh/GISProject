@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "GIS Project",
-    "section": "",
-    "text": "Welcome to our GIS Project web site."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "Introduction",
@@ -33,5 +19,19 @@
     "title": "Introduction",
     "section": "The Data",
     "text": "The Data\nThe following data sets will be used:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "GIS Project",
+    "section": "",
+    "text": "Welcome to our GIS Project web site."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]
